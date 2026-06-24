@@ -2,6 +2,9 @@
 
 A transaction processing and ranking service built using **FastAPI**. The system accepts user transactions, maintains aggregated user summaries, prevents duplicate requests, and generates a fair leaderboard based on user activity.
 
+Video Link - https://drive.google.com/file/d/1YwAsXWMeY3dYPoC9lcnVHNkQAa_RmBWU/view?usp=sharing
+(its bit long as i have demonstrated the whole project properly)
+
 ---
 
 ## Features
